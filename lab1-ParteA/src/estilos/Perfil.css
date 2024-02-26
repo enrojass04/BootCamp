@@ -1,0 +1,59 @@
+
+.container-profile {
+    width: 650px;
+    height: 350px;
+    margin: 15px;
+    background-color: #16253d; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5%;
+    opacity: 0.95;
+    border: #ffffff solid;
+}
+
+.image-profile {
+    height: 200px;
+    width: 250px;
+    border-radius: 50%;
+    padding: 15px;
+}
+
+.container-text-profile {
+    text-align: center;
+    font-family: monospace;
+    line-height: 1rem;
+    color: #ffffff;
+    margin: 5px;
+    
+}
+
+.items {
+    font-size: 1rem;
+    padding: 3px;
+}
+
+.description-profile {
+    font-size: 1rem;
+    text-align: justify;
+    padding: 10px 15px 10px 15px;
+    margin: 20px 20px 0px 20px;
+    border-radius: 5px;
+    background-color: #cd7213;
+    color: #002c54;
+}
+
+.titulo {
+    color: #ffffff;
+    margin: 10px;
+}
+
+.conta-name {
+    border: #ffffff solid;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+.conta {
+    padding: 8px;
+}
